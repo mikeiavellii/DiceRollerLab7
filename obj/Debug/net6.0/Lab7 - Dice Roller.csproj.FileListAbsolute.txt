@@ -1,0 +1,15 @@
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\bin\Debug\net6.0\Lab7 - Dice Roller.exe
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\bin\Debug\net6.0\Lab7 - Dice Roller.deps.json
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\bin\Debug\net6.0\Lab7 - Dice Roller.runtimeconfig.json
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\bin\Debug\net6.0\Lab7 - Dice Roller.dll
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\bin\Debug\net6.0\ref\Lab7 - Dice Roller.dll
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\bin\Debug\net6.0\Lab7 - Dice Roller.pdb
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\obj\Debug\net6.0\Lab7 - Dice Roller.csproj.AssemblyReference.cache
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\obj\Debug\net6.0\Lab7 - Dice Roller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\obj\Debug\net6.0\Lab7 - Dice Roller.AssemblyInfoInputs.cache
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\obj\Debug\net6.0\Lab7 - Dice Roller.AssemblyInfo.cs
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\obj\Debug\net6.0\Lab7 - Dice Roller.csproj.CoreCompileInputs.cache
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\obj\Debug\net6.0\Lab7 - Dice Roller.dll
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\obj\Debug\net6.0\ref\Lab7 - Dice Roller.dll
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\obj\Debug\net6.0\Lab7 - Dice Roller.pdb
+D:\Programs\Applications\Visual Studio\Lab7 - Dice Roller\Lab7 - Dice Roller\obj\Debug\net6.0\Lab7 - Dice Roller.genruntimeconfig.cache
